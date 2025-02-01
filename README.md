@@ -12,3 +12,5 @@ This project analyzes linguistic differences in Romanian articles written in Rom
 - **Data**: JSON files containing articles from Germany, Spain, Italy, UK, and Romania.
 - **Analysis**: Python scripts in Google Colab for text preprocessing, analysis, and visualization.
 - **Results**: Reports and charts showing linguistic differences.
+
+## [Report](./Report.pdf)
