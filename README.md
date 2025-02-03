@@ -14,3 +14,5 @@ This project analyzes linguistic differences in Romanian articles written in Rom
 - **Results**: Reports and charts showing linguistic differences.
 
 ## [Report](./Report.pdf)
+
+## [Presentation](./Romanian in different regions.pdf)
